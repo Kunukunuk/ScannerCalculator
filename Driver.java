@@ -9,7 +9,7 @@ public class Driver {
 
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Enter your operation symnbol");
+		System.out.println("Enter your operation symbol");
 		operation = sc.next();
 		
 		System.out.println("Enter the type of numbers");
